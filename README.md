@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Priya! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Repo&hearts;++;Self-taught+Developer;Computer+Science+Student;Active+Learner/Researcher;Open+to+learning+new+things<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Repo&hearts;++;Data+Engineer;Computer+Science+Student;Active+Learner/Researcher;Open+to+learning+new+things<3"></a>
 </p>
 
 <br>
@@ -11,9 +11,9 @@
 
 <br>
 
-- A passionate Developer and Big Data Engineer
-- I have 4 years of experience as a software developer and Data engineer working for Silicon Valley Bank
-- I'm currently learning Web Development by myself
+- A passionate Big Data Engineer and Developer
+- I have 4 years of experience as a Big Data engineer / Data Analyst working for Silicon Valley Bank
+- I'm currently interning at EDP renewables North America as a Data analyst intern and learning spark and Azure. 
 - I’m currently open for a full time opportunity within the US, please check out my projects @ [https://priyaavijay.github.io/Portfolio/]
 
 <br><br>
