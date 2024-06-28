@@ -115,8 +115,8 @@
 
 <br>
 
-- **
-- - **Operating Systems**:
+
+- **Operating Systems**:
 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
