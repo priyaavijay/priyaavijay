@@ -10,9 +10,9 @@
 
 <br>
 
-- A passionate Big Data Engineer and Developer
-- I have 4 years of experience as a Big Data Engineer / Data Analyst working for Silicon Valley Bank
-- I'm currently interning at EDP Renewables North America as a Data Analyst intern and learning Spark and Azure.
+- A passionate Big Data Engineer and Full stack Developer
+- I have 4 years of experience working for Silicon Valley Bank as a Big Data Engineer / Full stack Developer 
+- My interest lies in wrangling data to provide actionable insights and developing user friendly data platforms.
 - I’m currently open for a full-time opportunity within the US, please check out my projects @ [https://priyaavijay.github.io/Portfolio/]
 
 <br><br>
